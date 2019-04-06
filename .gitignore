@@ -1,0 +1,7 @@
+*/.idea/*
+*/*.iml/*
+
+*/target/*
+
+/spring-framework-5.0.2.RELEASE/*
+/spring-framework-5.0.2.RELEASE.zip
